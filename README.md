@@ -1,2 +1,2 @@
 # bilbili_extensions
-零基础vibe coding习作，bilbili自用插件
+零基础vibe coding习作，bilbili网页版自动网页全屏的油猴插件
