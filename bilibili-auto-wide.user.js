@@ -3,7 +3,7 @@
 // @namespace    https://bilibili.com/
 // @version      1.4
 // @description  自动切换到网页全屏模式，通过播放器按钮自动进入（网页全屏=web，宽屏=wide）
-// @author       hmyja
+// @author       huangmin463
 // @match        https://www.bilibili.com/video/*
 // @match        https://www.bilibili.com/bangumi/play/*
 // @icon         https://www.bilibili.com/favicon.ico
